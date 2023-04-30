@@ -1,0 +1,11 @@
+n=int(input(' n = '))
+Largest=n
+condition=(n>=0)
+
+while condition:
+    if n>Largest:
+        Largest=n
+    n=int(input(' n = '))
+    condition=(n>=0)
+
+print('The Largest number is %f'%Largest)
