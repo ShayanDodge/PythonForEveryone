@@ -1,9 +1,17 @@
-n=10
-m=4
+#tamrin3,table with while and for
+n = 10
+m =4
+i=1
+for ii in range(1,m+1):
+    print("%s%-9d"%("x^",ii),end="")
+print()
+print(20*"* ")
 
-for i in range(1,n+1):
+
+while i<=n:
     for j in range(1,m+1):
-        print('%10d'%i**j,end="")
+        print("%-10d "%i**j,end="")
+
     print()
-#for i in range(1,n+1):
-#    print(i,end="")
+    i = i + 1
+    print(20*"* ")
