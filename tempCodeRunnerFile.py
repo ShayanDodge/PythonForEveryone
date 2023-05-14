@@ -1,1 +1,1 @@
-print
+rendom_char
