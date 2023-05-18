@@ -1,1 +1,1 @@
-rendom_char
+1,6
