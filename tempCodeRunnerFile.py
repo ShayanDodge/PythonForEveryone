@@ -1,1 +1,2 @@
-remove
+        if value=='Q':
+            break

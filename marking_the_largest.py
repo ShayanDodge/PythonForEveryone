@@ -13,7 +13,9 @@ for i in range(len(values)):
 for i in values:
     if i==largest:
         print('>>',end='')
-    print(i,end='')
+        print(i,end='')
+    else:
+        print(" ",i,end='')
     if i==largest:
         print('<<',end='')
     print('')
