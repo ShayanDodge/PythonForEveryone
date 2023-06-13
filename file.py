@@ -1,8 +1,17 @@
 infile=open('text.txt','r')
 
-for line in infile:
-    line=line.rstrip()
-    print(line)
+word=infile.read(1)
+while word != "":
+    print(word)
+    word=infile.read(10)
+# words=line.split()
+# for i in range(len(words)):
+#     words[i]=words[i].strip("")
+# print(words)
+
+# for line in infile:
+#     line=line.rstrip()
+#     print(line)
 
 # outfile=open('text2.txt','w')
 # ave=0
