@@ -1,0 +1,12 @@
+1   Hawaiian                          $7.50
+2   Champagne and HamCheese           $7.50
+3   Beef & Onion                      $7.50
+4   Pepperoni                         $7.50
+5   Simply Cheese                     $7.50
+6   Bacon Mushroom                    $7.50
+7   Italiano                          $7.50
+8   The Deluxe                        $13.50
+9   Ham & Egg Hollandaise             $13.50
+10  Americano                         $13.50
+11  Mr Wedge                          $13.50
+12  BBQ & Meatlovers                  $13.50
