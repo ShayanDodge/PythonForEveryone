@@ -1,7 +1,7 @@
-# FILENAME_RULES = 'rules-example1.dat'
-# FILENAME_DATES = 'dates-example1.dat'
-# FILENAME_RULES = 'rules-example2.dat'
-# FILENAME_DATES = 'dates-example2.dat'
+FILENAME_RULES = 'rules-example1.dat'
+FILENAME_DATES = 'dates-example1.dat'
+FILENAME_RULES = 'rules-example2.dat'
+FILENAME_DATES = 'dates-example2.dat'
 FILENAME_RULES = 'rules.dat'
 FILENAME_DATES = 'dates.dat'
 
